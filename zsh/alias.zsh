@@ -77,6 +77,9 @@ source $DIRNAME/Utility/methods.sh
 
 #app
 alias vim='nvim'
+#npm
+alias npm-work='npm config set registry https://artifactory.corp.adobe.com'
+alias npm-default='npm config set registry https://registry.npmjs.org'
 
 #others
 alias {r,reload}='source ~/.zshrc'

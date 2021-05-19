@@ -1999,7 +1999,7 @@
 	<key>OnlyWhenMoreTabs</key>
 	<false/>
 	<key>OpenBookmark</key>
-	<true/>
+	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>

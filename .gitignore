@@ -1,3 +1,5 @@
 zsh/customAlias.zsh
 zsh/Splunk/
 zsh/Jira/
+.DS_Store
+*/.DS_Store
